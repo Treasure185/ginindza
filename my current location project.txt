@@ -1,0 +1,26 @@
+style css
+body 
+{
+   background-color:faf7fe}
+
+   container
+   max-width:600px;
+   margin:0 auto;
+   back-ground:white;
+   paddind:30px;
+   box-show:10px,10px,10px rgba{o,o,o,o.4}
+   border-radius:10px;
+   margin:60px;
+
+   select{
+      display:block;
+      width:100%;
+      border-radius:4px;
+      padding:10px
+
+      h1{
+         font-family:san-serif;
+         font-size:36px;
+         text-align:center
+      }
+   }
